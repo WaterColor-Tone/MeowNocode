@@ -7,7 +7,7 @@ compatibility_date = "2023-12-01"
 [[d1_databases]]
 binding = "DB" # 在Worker代码中通过 env.DB 访问
 database_name = "meow-app-db" # 数据库名称
-database_id = "586d5817-e29c-4350-a679-3a2ac2430982" # 替换为你的D1数据库ID
+database_id = "6815f499-4cfb-4c45-982c-6c50d90bba44" # 替换为你的D1数据库ID
 
 # 环境变量
 [env.production.vars]
